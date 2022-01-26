@@ -6,11 +6,11 @@
         />
     </a>
 </p>
-<a href="https://github.com/CyclenY"><img src="https://cardivo.vercel.app/api?name=KyManBotz | Chikoo&description=Hi, i'm CyclenY and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/7033cb00350cf25e4038d.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/KyManBotz"><img src="https://cardivo.vercel.app/api?name=KyManBotz | Chikoo&description=Hi, i'm KyManBotz and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/7033cb00350cf25e4038d.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
         
 </p>
 <p align="center">
-<a href="#"><img title="KyMan | Botz" src="https://img.shields.io/badge/Rifky | Elaina_Botz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KyMan | Botz" src="https://img.shields.io/badge/KyMan | Botz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
