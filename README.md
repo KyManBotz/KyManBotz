@@ -6,7 +6,7 @@
         />
     </a>
 </p>
-<a href="https://github.com/KyManBotz"><img src="https://cardivo.vercel.app/api?name=KyMan | Botz&description=Hi, i'm KyManBotz and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/b669963c2868845a0aac6.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&@quotesplosai02_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/KyManBotz"><img src="https://cardivo.vercel.app/api?name=KyMan | Botz&description=Hi, i'm KyManBotz and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/b669963c2868845a0aac6.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&instagram=@quotes_plosai_02_&github=CyclenY&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
         
 </p>
 <p align="center">
