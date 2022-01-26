@@ -65,7 +65,7 @@
  
  ### Cinematic Alam
 <p align="center">
- <img src="https://github.com/KyManBotz/KyManBotz/blob/main/Alam_Cinematic_Film_(1).gif" />
+ <img src="https://github.com/KyManBotz/KyManBotz/blob/main/Alam_Cinematic_Film (1).gif" />
 </p>
 
 ------
