@@ -15,10 +15,6 @@
 
 <p align="center">
 
-- 👼 My name is KyManBotz
-
-- 🗣️ I am 16 years old 
-
 - 🔭 I am Not programmer
  
 - 😎 I am like Wibu
