@@ -92,8 +92,8 @@
 
  ### Repo Stats 🔭
  
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=KyManBotz&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=CyclenY&repo=Base-KyManBotz&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyManBotz&repo=KyManBotz&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyManBotz&repo=KyManBotz&theme=nightowl)
 
 ------
 
